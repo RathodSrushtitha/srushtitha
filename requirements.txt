@@ -1,0 +1,7 @@
+langchain_community
+langchain_google_genai
+langchain_pinecone
+langchain_groq
+pypdf
+faiss-cpu
+streamlit
